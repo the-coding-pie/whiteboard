@@ -2,8 +2,7 @@
 
 A simple realtime whiteboard where user's can draw using different colors on the board.
 
-![Screenshot from 2021-12-02 13-56-02](https://user-images.githubusercontent.com/63698375/144386492-824176ad-2f03-4a8d-b286-d398f5530f66.png)
-
+![whiteboard](https://user-images.githubusercontent.com/63698375/144386972-9655b223-a73e-4d2b-9f4b-09fc50f0124a.png)
 
 # Technologies Used
 
