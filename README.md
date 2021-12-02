@@ -1,8 +1,10 @@
 # WhiteBoard
 
-A simple realtime whiteboard where user's can draw using different colors on the board.
+A simple realtime whiteboard where user's can draw using different colors.
+
 
 ![whiteboard](https://user-images.githubusercontent.com/63698375/144386972-9655b223-a73e-4d2b-9f4b-09fc50f0124a.png)
+
 
 # Technologies Used
 
